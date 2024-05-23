@@ -8,7 +8,7 @@ on:
         required: true
 
 jobs:
-  run:
+  run:https://iosgods.com/igg
     runs-on: ubuntu-latest
 
     steps:
